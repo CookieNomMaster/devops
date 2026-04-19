@@ -2,7 +2,6 @@
 <testsuite name="SampleTests" tests="4" failures="1" errors="0">
     <testcase name="testLogin" classname="AppTest" time="0.1"/>
     <testcase name="testHomePage" classname="AppTest" time="0.2"/>
-    <testcase name="testCheckout" classname="AppTest" time="0.3">
-    </testcase>
+    <testcase name="testCheckout" classname="AppTest" time="0.3"/>
     <testcase name="testLogout" classname="AppTest" time="0.1"/>
 </testsuite>
