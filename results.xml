@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SampleTests" tests="4" failures="1" errors="0">
+    <testcase name="testLogin" classname="AppTest" time="0.1"/>
+    <testcase name="testHomePage" classname="AppTest" time="0.2"/>
+    <testcase name="testCheckout" classname="AppTest" time="0.3">
+        <failure message="Expected 200 but got 404">Page not found</failure>
+    </testcase>
+    <testcase name="testLogout" classname="AppTest" time="0.1"/>
+</testsuite>
